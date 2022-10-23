@@ -3,6 +3,7 @@
 namespace B4While {
 	class Program {
 		static void Main(string[] args) {
+			// https://cdn.discordapp.com/attachments/1007656285853990912/1033802247894745109/unknown.png
 			Console.OutputEncoding = System.Text.Encoding.UTF8;
 			Console.WriteLine("Vui lòng nhập n:");
 
